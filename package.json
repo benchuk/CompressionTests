@@ -1,0 +1,14 @@
+{
+  "name": "ben",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "jimp": "^0.9.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
