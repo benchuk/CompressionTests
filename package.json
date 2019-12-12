@@ -4,7 +4,8 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "node main.js",
+    "comp":"node compress.js"
   },
   "dependencies": {
     "jimp": "^0.9.3"
